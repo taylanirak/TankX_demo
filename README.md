@@ -1,4 +1,4 @@
-# tankx-research
+#research
 
 > Backtest 6 ML models as crypto trading strategies on real Binance data.
 > **Headline: Transformer on SOL/USDT 5m turns $10 000 into $17 953 in 6 months.**
